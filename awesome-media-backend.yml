@@ -21,4 +21,4 @@ spring:
   logging:
      file: /log/spring.log 
   
-name: jleesk-test
+name: jleesk-test2
